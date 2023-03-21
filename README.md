@@ -1,2 +1,2 @@
-# text-based-adventure
+# **CastleInn**
 Text Based Adventure Game
